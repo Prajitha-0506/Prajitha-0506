@@ -35,8 +35,8 @@
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tammana-prajitha)
-- 📧 Email: tammana.prajitha@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/tammana-prajitha-24a5ab298/)
+- 📧 Email: prajithatammana@gmail.com
 
 ---
 
