@@ -18,11 +18,10 @@
 
 ### 💼 Projects I'm Proud Of
 
-- 🔎 [Student Performance Analysis](https://github.com/Prajitha-0506/Student-performance-analysis) – Explored and visualized student data to uncover academic trends.
-- 📈 [Sales Forecasting Project](https://github.com/Prajitha-0506/Sales_forecasting) – Built a linear regression model to predict sales.
-- 🛒 [E-Commerce CLI App](https://github.com/Prajitha-0506/E-commerce-cli) – Python-based CLI for managing e-commerce data.
-- 🏏 [IPL Power BI Dashboard](https://github.com/Prajitha-0506/ipl-powerbi-dashboard) – Data storytelling with Power BI using IPL data.
-- 🌏 [Asia Cup Dashboard](https://github.com/Prajitha-0506/AsiaCupAnalysis-PowerBI) – Multi-page report built with Power BI on Asia Cup data.
+- 🔎 [Student Performance Analysis](https://github.com/Prajitha-0506/Student-performance-analytics) – Explored and visualized student data to uncover academic trends.
+- 📈 [Sales Forecasting Project](https://github.com/Prajitha-0506/sales-forecasting) – Built a linear regression model to predict sales.
+- 🛒 [E-Commerce CLI App](https://github.com/Prajitha-0506/ecommerce-insights) – Python-based CLI for managing e-commerce data.
+- 🏏 [IPL Power BI Dashboard](https://github.com/Prajitha-0506/ipl-powerbi-project) – Data storytelling with Power BI using IPL data.
 
 ---
 
